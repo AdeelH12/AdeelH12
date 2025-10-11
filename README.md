@@ -37,22 +37,23 @@ I deliver functional, scalable, and maintainable interfaces using modern web tec
   A fully responsive flower e-commerce store built with **React and TypeScript**.  
   Features product browsing, cart management, and a smooth user experience with modern design.
 
-- 💼 [**Job Board**](https://github.com/AdeelH12/job-board) | [Live Demo](#)  
+- 💼 [**Job Board**](https://github.com/AdeelH12/job-board) | [Live Demo](https://adeelh12.github.io/job-board/)  
   React app fetching live job data via Adzuna Jobs API with search by job title and location.  
   Clean, responsive UI with reusable components and full API integration.
 
-- 🎬 [**Movie Explorer**](https://github.com/AdeelH12/movie-explorer) | [Live Demo](#)  
+- 🎬 [**Movie Explorer**](https://github.com/AdeelH12/movie-explorer) | [Live Demo](https://adeelh12.github.io/Movie_Website/index.html)  
   Dynamic movie browsing app using TMDb API with category filters (Now Playing, Upcoming, Top Rated).  
   Real-time search, interactive movie details, and mobile-first responsive design.
 
-- 🎫 [**Ticketing System**](https://github.com/AdeelH12/ticketing-system) | [Live Demo](#)  
+- 🎫 [**Ticketing System**](https://github.com/AdeelH12/ticketing-system) | [Live Demo](https://adeelh12.github.io/support-desk/)  
+  (Demo login: username: admin / password: password)
   Issue-tracking platform with authentication, ticket CRUD, and multi-page navigation.  
   Built with React Router and Context API for robust state management.
 
-- 📋 [**Job Application Tracker**](https://github.com/AdeelH12/job-application-tracker) | [Live Demo](#)  
+- 📋 [**Job Application Tracker**](https://github.com/AdeelH12/job-application-tracker) | [Live Demo](https://adeelh12.github.io/Job-application-tracker/)  
   CRUD tracker app for job applications with persistent localStorage and search/filter features.
 
-- 🌦 [**Weather App**](https://github.com/AdeelH12/weather-app) | [Live Demo](#)  
+- 🌦 [**Weather App**](https://github.com/AdeelH12/weather-app) | [Live Demo](https://adeelh12.github.io/Weather_App/)  
   Mobile-first dashboard fetching weather data via Weatherstack API with full error handling.
 
 ---
