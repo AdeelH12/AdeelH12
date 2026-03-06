@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Adeel
 
-💻 I'm a **Front-End Developer** focused on building clean, responsive, and user-friendly web applications.  
+💻 I'm a **Full Stack Developer** focused on building clean, responsive, and user-friendly web applications.  
 I deliver functional, scalable, and maintainable interfaces using modern web technologies.
 
 ---
@@ -25,7 +25,7 @@ I deliver functional, scalable, and maintainable interfaces using modern web tec
 
 ### 🧠 About Me
 - 🎓 **BSc in Computer Science** – University of Bradford  
-- 💼 Experienced in building **real-world, interactive front-end projects** with React, JavaScript, and TypeScript  
+- 💼 Experienced in building **real-world, interactive full-stack projects** with React, JavaScript, and TypeScript, Node.js, MongoDB  
 - ⚡ Skilled in designing **clean, responsive UIs**, handling asynchronous API data, and writing maintainable code  
 - 🎨 Passionate about **modern design, usability, and scalable front-end architecture**  
 
